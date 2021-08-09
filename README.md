@@ -1,2 +1,2 @@
 
-<img src="Сбор.png" width="200" height="50"/>
+<img src="Сбор.png" width="200" height="200"/>
