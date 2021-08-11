@@ -3,5 +3,5 @@
 <img src="Сбор.png" width="400" height="400"/>
 
 <p>You can see how tags work at the link below.</p>
-<a href="https://adeil.000webhostapp.com/joblist/Пятнашки%20AUTO%20СБОР/index.html">SEE LINK</a>
+<a href="https://adeil.000webhostapp.com/joblist/Пятнашки%20AUTO%20СБОР/index.html" target="_blank">SEE LINK</a>
 
